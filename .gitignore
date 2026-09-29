@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Environments
+env/
+.venv/
+.micromamba/
+
+# Jupyter / marimo
+.ipynb_checkpoints/
+__marimo__/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
