@@ -1,5 +1,5 @@
 [project]
-name = "hyprid-proj"
+name = "data_analysis_for_the_life_sciences"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.scripts]
-hyprid-proj = "hyprid_proj:main"
+hyprid-proj = "data_analysis_for_the_life_sciences:main"
 
 [build-system]
 requires = ["uv_build>=0.12.18,<0.13.0"]
